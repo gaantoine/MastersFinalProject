@@ -42,3 +42,7 @@ https://dev.epicgames.com/documentation/unreal-engine/blueprint-struct-variables
 
 https://dev.epicgames.com/community/learning/tutorials/yw4j/unreal-engine-5-for-each-loop-with-brake-blueprint-code-easy-tutorial-for-beginners-tutorial-ue5
 
+
+
+https://www.youtube.com/watch?v=khImcMMPN9c
+
