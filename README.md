@@ -1,6 +1,12 @@
 # MastersFinalProject
 
-My final project for my master's studies at MMU
+For my final project of my master's studies at Manchester Metropolitan University, I designed and developed this game.
+
+The game currently has no name.  It is a first-person puzzle game where you use sounds to interact with NPCs and the
+environment to solve puzzles.
+
+The game was developed using Unreal Engine 5.6.1.  The Unreal Engine project is a C++ project, though no custom C++
+code has been added yet.  
 
 
 
